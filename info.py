@@ -50,7 +50,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001797596826))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001780651238))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/broken_updatez')
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+QJ0zdNuBAh5lNWI9')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/how_To_Openn/57')
 
 # Log Channels
