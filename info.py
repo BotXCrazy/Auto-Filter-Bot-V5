@@ -44,7 +44,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Channel Button Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/TG_Movies_Request_Group')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TG_Updates_204')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/BrokenBoy204')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TG_Movies_Request_Group')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
