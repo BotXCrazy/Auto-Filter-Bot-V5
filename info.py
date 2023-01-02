@@ -81,7 +81,7 @@ MAUTO_DELETE = is_enabled((environ.get('MAUTO_DELETE', "True")), True)
 
 # Delete Time
 DELETE_TIME = int(environ.get('DELETE_TIME', 3000000000))
-SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15000000))
+SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 45000000))
 
 # URL SHORTNER
 
